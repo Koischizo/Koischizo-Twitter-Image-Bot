@@ -1,5 +1,6 @@
 # Koischizo Twitter Image Bot
-Posts image tweets daily at https://twitter.com/Koischizo_
+Posts image tweets daily at ```https://twitter.com/Koischizo_```
+
 written with low quality and haste with ChatGPT
 
 ### License
